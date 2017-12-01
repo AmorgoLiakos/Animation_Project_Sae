@@ -1,0 +1,70 @@
+* {
+    font-family: 'Share Tech Mono', monospace;
+}
+
+#introOne {
+    font-size: 2.7em;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+#introText {
+    font-size: 2.1em;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+#introTextTwo {
+    font-size: 1.1em;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span {
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.intro {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: #fff;
+    background: url(../img/indexNew.jpg) center no-repeat #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#about {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: #fff;
+    background: url(../img/pulp.jpg) center no-repeat #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#AboutText {
+    font-size: 1.9em;
+}
+
+.textLi{
+    font-size:1.4em;
+}
+
+#download{
+    height:100%;
+}
+
+.hovScal:hover{
+    transform: scale(1.05,1.05);
+    
+}
